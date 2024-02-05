@@ -1,4 +1,16 @@
-# ifood
+# Markeplace - Análise
+
+### Site com todas as análises a seguir:
+## https://c41m-market.streamlit.app/
+
+## Observações!
+Caso surgir essa tela:
+
+![image](https://github.com/C41m/ifood/assets/79061428/150b10fe-31d8-415b-b76a-cda9369fe642)
+
+Apenas clicar no botão azul e aguardar!
+
+## Sobre o projeto:
 Estudos, ETL, Tabelas, Dashboard e Insights sobre uma database do ifood.
 
 Estudos sobre o python, pandas, streamlit, plotly, express, numpy, jupyter, HTML e CSS.
